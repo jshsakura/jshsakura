@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=리눅스와 휴대기기를 사랑하는 개발자!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=!&fontAlign=80&fontAlignY=40&color=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshsakura&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
