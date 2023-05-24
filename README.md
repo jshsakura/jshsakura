@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Perfectionists%with%Deadlines!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Perfectionists-with-Deadlines!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ##🤔 리눅스와 휴대기기를 사랑하는 개발자 ...
 
