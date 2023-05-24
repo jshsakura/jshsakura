@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Perfectionists%20with%20Deadlines!&fontAlignY=40&color=gradient&fontSize=40)
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Husband%20of%20Rebekah&height=150&fontSize=60&desc=A%20developer%20who%20enjoys%20Linux%20and%20mobile%20devices&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=random&text=Husband%20of%20Rebekah&height=150&fontSize=60&desc=A%20developer%20who%20enjoys%20Linux%20and%20mobile%20devices&descAlignY=75&descAlign=60)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura)](https://github.com/anuraghazra/github-readme-stats)
