@@ -1,3 +1,6 @@
+## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jshsakura!&fontAlign=80&fontAlignY=40&color=gradient)
+
 ### 🤔 리눅스와 휴대기기를 사랑하는 개발자 ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura)](https://github.com/anuraghazra/github-readme-stats)
