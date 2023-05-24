@@ -4,6 +4,7 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=Husband%20of%20Rebekah&height=150&fontSize=60&desc=A%20developer%20who%20enjoys%20Linux%20and%20mobile%20devices&descAlignY=75&descAlign=60)
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jshsakura&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
   
