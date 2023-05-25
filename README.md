@@ -7,6 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jshsakura&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)   
    
 <br/>
+   
 ![jshsakura's github stats](https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true)
 [![jshsakura's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jshsakura)
 
