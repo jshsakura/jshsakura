@@ -12,6 +12,8 @@
 |-------|-----------|
 |![jshsakura's github stats](https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true&theme=dracula)|[![jshsakura's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura&langs_count=8&layout=compact&theme=dracula)](https://github.com/jshsakura)|
 
+
+<a rel="me" href="https://sns.opencourse.kr/@opencourse" style="display:none">Mastodon</a>
 </div>
 
 <!--
