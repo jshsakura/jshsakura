@@ -36,8 +36,8 @@
 <h3>📊 Github Dashboard</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jshsakura&theme=dracula" width="98%">
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jshsakura&theme=dracula" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jshsakura&theme=dracula" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jshsakura&theme=dracula" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jshsakura&theme=dracula" width="49%">
 
 <br/><br/>
 
