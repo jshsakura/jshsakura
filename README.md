@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25&height=220&section=header&text=Perfectionists%20with%20Deadlines!&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Husband%20of%20Rebekah&descAlignY=65&descSize=20" width="98%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&background=00000000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Linux+%26+Mobile+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7359f8&background=00000000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Linux+%26+Mobile+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,19 +31,13 @@
 
 <br/><br/>
 
-<h3>📊 Github Dashboard</h3>
+<h3>📊 Github Dashboard</h3><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jshsakura&theme=dracula" width="98%">
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jshsakura&theme=dracula" width="49%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jshsakura&theme=dracula" width="49%">
 
 <br/><br/>
-
-<h3>📕 Latest Posts</h3>
-<div align="left">
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.opencourse.kr" target="_blank"><img src="https://img.shields.io/badge/Blog-OpenCourse-181717?style=flat&logo=ghost&logoColor=white"/></a>
