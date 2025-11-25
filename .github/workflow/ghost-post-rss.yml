@@ -1,0 +1,17 @@
+name: Latest Ghost post workflow
+on:
+  schedule:
+    # 매시간마다 실행 (원하는 대로 조정 가능)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.opencourse.kr/rss/"
+          max_post_count: 5
