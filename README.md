@@ -8,8 +8,6 @@
 
 <br/><br/>
 
-<h2>📜 이력서</h2>
-
 | 항목 | 내용 |
 |------|------|
 | **이름** | jshsakura |
@@ -30,16 +28,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
-
-<br/>
-
-<h3>🏆 인기 프로젝트</h3>
-
-| 프로젝트 | 설명 | 스타 |
-|---------|------|------|
-| [1fichier-dl](https://github.com/jshsakura/1fichier-dl) | 1Fichier Download Manager (KR) | 30 ⭐ |
-| [steamdeck](https://github.com/jshsakura/steamdeck) | Steam Deck 관련 프로젝트 | 21 ⭐ |
-| [oc-proxy-downloader](https://github.com/jshsakura/oc-proxy-downloader) | 1fichier Proxy Downloader | 3 ⭐ |
 
 <br/>
 
