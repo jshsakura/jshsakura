@@ -43,11 +43,9 @@
 
 <br/>
 
-<!-- Trophy temporarily disabled due to Vercel 503 error
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=jshsakura&theme=dracula&row=1&column=7&margin-w=15&no-bg=true" alt="jshsakura trophies" width="98%" />
 </a>
--->
 
 <br/><br/>
 
