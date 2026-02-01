@@ -8,29 +8,6 @@
 
 <br/><br/>
 
-| 항목 | 내용 |
-|------|------|
-| **이름** | jshsakura |
-| **직무** | Java Backend Developer |
-| **관심 분야** | Linux, Docker, Open Source, Mobile |
-| **이메일** | support@opencourse.kr |
-| **블로그** | [OpenCourse](https://www.opencourse.kr) |
-
-<br/>
-
-<h3>🚀 주요 기술</h3>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-</p>
-
-<br/>
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=jshsakura&theme=dracula&row=1&column=7&margin-w=15&no-bg=true" alt="jshsakura trophies" width="98%" />
 </a>
