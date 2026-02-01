@@ -45,7 +45,9 @@
 |---------|------|------|
 | [1fichier-dl](https://github.com/jshsakura/1fichier-dl) | 1Fichier Download Manager (KR) | 30 ⭐ |
 | [steamdeck](https://github.com/jshsakura/steamdeck) | Steam Deck 관련 프로젝트 | 21 ⭐ |
+| [passion-gamer](https://github.com/jshsakura/passion-gamer) | Gaming related projects | 3 ⭐ |
 | [oc-proxy-downloader](https://github.com/jshsakura/oc-proxy-downloader) | 1fichier Proxy Downloader | 3 ⭐ |
+| [DaijishouKor](https://github.com/jshsakura/DaijishouKor) | Daijishou Korean localization | 1 ⭐ |
 
 <br/>
 
