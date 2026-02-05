@@ -73,18 +73,6 @@ Devices/     Raspberry Pi
 ---
 
 ```console
-seunghyeon@github:~$ neofetch --github
-```
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=jshsakura&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-```console
 seunghyeon@github:~$ git log --graph --oneline
 ```
 
