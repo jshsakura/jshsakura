@@ -78,13 +78,13 @@ seunghyeon@github:~$ neofetch --github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ca9ee6&title_color=ca9ee6&text_color=c0caf5&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=jshsakura&theme=tokyonight&hide_border=true&background=00000000&ring=ca9ee6&fire=ef9f76&currStreakLabel=ca9ee6&sideLabels=8caaee" height="170" />
+<img src="https://streak-stats.demolab.com/?user=jshsakura&theme=tokyonight&hide_border=true" height="170" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ca9ee6&text_color=c0caf5&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshsakura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
 
 </div>
 
