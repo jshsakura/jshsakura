@@ -151,9 +151,7 @@ seunghyeon@github:~$ stats --summary
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jshsakura&theme=discord&row=1&column=7&margin-w=15&no-bg=true&no-frame=true" alt="trophies" width="98%" />
-</a>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=jshsakura&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" width="98%" />
 
 <br/><br/>
 
