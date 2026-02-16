@@ -40,7 +40,8 @@ seunghyeon@github:~$ cat whoami.txt
 훌륭한 목수는 보이지 않는 곳이라고 해서 썩은 나무를 덧대지 않는다.
 
 프리랜서 개발자. 주로 Java/Spring 백엔드를 주력으로 다루고 있습니다.
-React 프론트엔드, Python API, 모바일(Android/iOS)까지 다양한 작업 경험이 있으며, 최근엔 AI 도구들과 함께 생산성을 극대화하는 데 관심이 많습니다.
+React 프론트엔드, Python API, 모바일(Android/iOS)까지 다양한 작업 경험이 있으며,
+최근엔 AI 도구들과 함께 생산성을 극대화하는 데 관심이 많습니다.
 ```
 
 ---
