@@ -25,7 +25,7 @@
 ---
 
 ```console
-seunghyeon@github:~$ open jshsakura.github.io --interactive
+jshsakura@github:~$ open jshsakura.github.io --interactive
 ```
 > **Interactive Terminal Portfolio** — 19 Themes · Tab Autocomplete · Neofetch · Easter Eggs
 > [`https://jshsakura.github.io`](https://jshsakura.github.io/)
@@ -33,7 +33,7 @@ seunghyeon@github:~$ open jshsakura.github.io --interactive
 ---
 
 ```console
-seunghyeon@github:~$ cat whoami.txt
+jshsakura@github:~$ cat whoami.txt
 ```
 
 ```
@@ -48,7 +48,7 @@ React 프론트엔드, Python API, 모바일(Android/iOS)까지 다양한 작업
 ---
 
 ```console
-seunghyeon@github:~$ ls skills/
+jshsakura@github:~$ ls skills/
 ```
 
 ```
@@ -74,7 +74,7 @@ Devices/     Raspberry Pi
 ---
 
 ```console
-seunghyeon@github:~$ git log --graph --oneline
+jshsakura@github:~$ git log --graph --oneline
 ```
 
 <div align="center">
@@ -86,7 +86,7 @@ seunghyeon@github:~$ git log --graph --oneline
 ---
 
 ```console
-seunghyeon@github:~$ contrib --3d
+jshsakura@github:~$ contrib --3d
 ```
 
 <div align="center">
@@ -102,7 +102,7 @@ seunghyeon@github:~$ contrib --3d
 ---
 
 ```console
-seunghyeon@github:~$ contrib --snake
+jshsakura@github:~$ contrib --snake
 ```
 
 <div align="center">
@@ -118,7 +118,7 @@ seunghyeon@github:~$ contrib --snake
 ---
 
 ```console
-seunghyeon@github:~$ stats --summary
+jshsakura@github:~$ stats --summary
 ```
 
 <div align="center">
