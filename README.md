@@ -9,85 +9,73 @@
 <br/>
 
 <a href="https://jshsakura.github.io/">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB_Portfolio-jshsakura.github.io-ca9ee6?style=flat-square&labelColor=303446" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Interactive_Terminal_Portfolio-jshsakura.github.io-ca9ee6?style=for-the-badge&labelColor=303446" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.opencourse.kr">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9D_Blog-OpenCourse.kr-8caaee?style=flat-square&labelColor=303446" alt="Blog"/>
+  <img src="https://img.shields.io/badge/Blog-OpenCourse.kr-8caaee?style=for-the-badge&labelColor=303446" alt="Blog"/>
 </a>
+&nbsp;
 <a href="mailto:support@opencourse.kr">
-  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact_Me-ef9f76?style=flat-square&labelColor=303446" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-ef9f76?style=for-the-badge&labelColor=303446" alt="Email"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-### `> cat whoami.txt`
+```console
+seunghyeon@github:~$ open jshsakura.github.io --interactive
+```
+> **Interactive Terminal Portfolio** — 19 Themes · Tab Autocomplete · Neofetch · Easter Eggs
+> [`https://jshsakura.github.io`](https://jshsakura.github.io/)
+
+---
+
+```console
+seunghyeon@github:~$ cat whoami.txt
+```
 
 ```
 훌륭한 목수는 보이지 않는 곳이라고 해서 썩은 나무를 덧대지 않는다.
+
+리눅스와 휴대기기를 좋아하는 개발자.
+주로 Java/Spring 백엔드를 주력으로 다루고 있습니다.
+React 프론트엔드, Python API, 모바일(Android/iOS)까지 다양한 작업 경험이 있으며,
+최근엔 AI 도구들과 함께 생산성을 극대화하는 데 관심이 많습니다.
 ```
 
-리눅스와 휴대기기를 좋아하는 개발자. **언어에 구속되지 않고** 문제에 맞는 최적의 도구를 선택합니다.
-
-백엔드, 프론트엔드, 모바일, 인프라까지 폭넓은 실전 경험을 바탕으로 **AI 코딩 도구를 적극 활용**해 생산성을 극대화합니다.
-
-<p>
-<img src="https://img.shields.io/badge/Claude_Code-Opus_4-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_CLI-2.5_Pro-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Opencode-22C55E?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Zai-Agent-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white" />
-</p>
-
 ---
 
-### `> open jshsakura.github.io`
+```console
+seunghyeon@github:~$ ls skills/
+```
+
+```
+Backend/     Java  Spring Boot  Node.js  Python  ASP.NET
+Frontend/    React  Next.js  Tailwind CSS
+DevOps/      Docker  Jenkins  Linux  Git  CI/CD
+Database/    Oracle  MySQL  PostgreSQL
+Mobile/      Android (Java)  iOS (Swift)
+AI Tools/    Claude Code  Gemini CLI  Opencode  Zai  Ollama
+Devices/     Raspberry Pi
+```
 
 <div align="center">
 
-<a href="https://jshsakura.github.io/">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jshsakura&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=ca9ee6&fire=ef9f76&currStreakLabel=ca9ee6&sideLabels=8caaee&dates=626880" width="49%" />
-</a>
-<a href="https://jshsakura.github.io/">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jshsakura&theme=dracula" width="49%" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,react,nextjs,tailwind,docker&theme=dark&perline=8" alt="Tech Stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=jenkins,linux,git,mysql,postgres,raspberrypi,dotnet,swift&theme=dark&perline=8" alt="Tech Stack" />
 </a>
 
 </div>
 
 ---
 
-### `> ls skills/ --icons`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,dotnet,react,nextjs,tailwind,ts,docker,jenkins,linux,git,mysql,postgres,swift,raspberrypi&theme=dark&perline=9" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Opencode-22C55E?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Home_Lab-303446?style=flat-square" />
-
-</div>
-
----
-
-### `> showcase --featured`
-
-| | Project | Description |
-|---|---|---|
-| 💻 | [**Terminal Portfolio**](https://github.com/jshsakura/jshsakura.github.io) | 터미널 스타일 인터랙티브 포트폴리오 — 19 Themes, Tab Autocomplete, Easter Eggs |
-| 🛠️ | [**Open Tools**](https://github.com/jshsakura/open-tools) | 개발자를 위한 올인원 웹 유틸리티 SaaS |
-
----
-
-### `> git log --graph --oneline`
+```console
+seunghyeon@github:~$ git log --graph --oneline
+```
 
 <div align="center">
 
@@ -97,7 +85,9 @@
 
 ---
 
-### `> contrib --3d`
+```console
+seunghyeon@github:~$ contrib --3d
+```
 
 <div align="center">
 
@@ -111,7 +101,9 @@
 
 ---
 
-### `> contrib --snake`
+```console
+seunghyeon@github:~$ contrib --snake
+```
 
 <div align="center">
 
@@ -125,7 +117,9 @@
 
 ---
 
-### `> stats --summary`
+```console
+seunghyeon@github:~$ stats --summary
+```
 
 <div align="center">
 
