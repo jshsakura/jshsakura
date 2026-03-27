@@ -47,10 +47,10 @@
 <div align="center">
 
 <a href="https://jshsakura.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=ca9ee6&icon_color=8caaee&text_color=c6d0f5&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jshsakura&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=ca9ee6&fire=ef9f76&currStreakLabel=ca9ee6&sideLabels=8caaee&dates=626880" width="49%" />
 </a>
 <a href="https://jshsakura.github.io/">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jshsakura&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=ca9ee6&fire=ef9f76&currStreakLabel=ca9ee6&sideLabels=8caaee&dates=626880" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jshsakura&theme=dracula" width="49%" />
 </a>
 
 </div>
@@ -80,16 +80,10 @@
 
 ### `> showcase --featured`
 
-<div align="center">
-
-<a href="https://github.com/jshsakura/jshsakura.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jshsakura&repo=jshsakura.github.io&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=ca9ee6&icon_color=8caaee&text_color=c6d0f5" width="49%" />
-</a>
-<a href="https://github.com/jshsakura/open-tools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jshsakura&repo=open-tools&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=ca9ee6&icon_color=a6d189&text_color=c6d0f5" width="49%" />
-</a>
-
-</div>
+| | Project | Description |
+|---|---|---|
+| 💻 | [**Terminal Portfolio**](https://github.com/jshsakura/jshsakura.github.io) | 터미널 스타일 인터랙티브 포트폴리오 — 19 Themes, Tab Autocomplete, Easter Eggs |
+| 🛠️ | [**Open Tools**](https://github.com/jshsakura/open-tools) | 개발자를 위한 올인원 웹 유틸리티 SaaS |
 
 ---
 
