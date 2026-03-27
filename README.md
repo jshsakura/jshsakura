@@ -22,53 +22,42 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### `> cat whoami.txt`
 
 ```
-훌륭한 목수는 보이지 않는 곳이라고 해서
-썩은 나무를 덧대지 않는다.
+훌륭한 목수는 보이지 않는 곳이라고 해서 썩은 나무를 덧대지 않는다.
 ```
 
 리눅스와 휴대기기를 좋아하는 개발자. **언어에 구속되지 않고** 문제에 맞는 최적의 도구를 선택합니다.
 
 백엔드, 프론트엔드, 모바일, 인프라까지 폭넓은 실전 경험을 바탕으로 **AI 코딩 도구를 적극 활용**해 생산성을 극대화합니다.
 
-<br/>
-
+<p>
 <img src="https://img.shields.io/badge/Claude_Code-Opus_4-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_CLI-2.5_Pro-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Opencode-22C55E?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Zai-Agent-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-### `> open jshsakura.github.io`
-
-<a href="https://jshsakura.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=ca9ee6&icon_color=8caaee&text_color=c6d0f5&rank_icon=github" width="100%" />
-</a>
-
-<a href="https://jshsakura.github.io/">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jshsakura&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=ca9ee6&fire=ef9f76&currStreakLabel=ca9ee6&sideLabels=8caaee&dates=626880" width="100%" />
-</a>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
+### `> open jshsakura.github.io`
+
 <div align="center">
 
-### `> ls skills/ --icons`
+<a href="https://jshsakura.github.io/">
+  <img src="https://github-readme-stats.vercel.app/api?username=jshsakura&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=ca9ee6&icon_color=8caaee&text_color=c6d0f5&rank_icon=github" width="49%" />
+</a>
+<a href="https://jshsakura.github.io/">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jshsakura&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=ca9ee6&fire=ef9f76&currStreakLabel=ca9ee6&sideLabels=8caaee&dates=626880" width="49%" />
+</a>
 
 </div>
+
+---
+
+### `> ls skills/ --icons`
 
 <div align="center">
 
@@ -89,11 +78,7 @@
 
 ---
 
-<div align="center">
-
 ### `> showcase --featured`
-
-</div>
 
 <div align="center">
 
@@ -108,9 +93,9 @@
 
 ---
 
-<div align="center">
-
 ### `> git log --graph --oneline`
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jshsakura&theme=tokyo-night&hide_border=true&bg_color=00000000&color=ca9ee6&line=8caaee&point=ef9f76&area=true&area_color=ca9ee6&custom_title=Contribution%20Graph" width="98%" />
 
@@ -118,9 +103,9 @@
 
 ---
 
-<div align="center">
-
 ### `> contrib --3d`
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -132,23 +117,23 @@
 
 ---
 
-<div align="center">
-
 ### `> contrib --snake`
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jshsakura/jshsakura/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jshsakura/jshsakura/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/jshsakura/jshsakura/blob/output/github-contribution-grid-snake.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jshsakura/jshsakura/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jshsakura/jshsakura/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jshsakura/jshsakura/output/github-contribution-grid-snake.svg" width="98%" />
 </picture>
 
 </div>
 
 ---
 
-<div align="center">
-
 ### `> stats --summary`
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jshsakura&theme=dracula" width="98%" />
 <br/>
