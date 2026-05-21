@@ -27,7 +27,7 @@
 ```console
 jshsakura@github:~$ open jshsakura.github.io --interactive
 ```
-> **Interactive Terminal Portfolio** — 19 Themes · Tab Autocomplete · Neofetch · Easter Eggs
+> **Interactive Terminal Portfolio** — 19 Themes · Tab Autocomplete · Neofetch
 > [`https://jshsakura.github.io`](https://jshsakura.github.io/)
 
 ---
